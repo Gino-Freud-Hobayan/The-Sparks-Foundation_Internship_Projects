@@ -1,6 +1,6 @@
 # The Sparks Foundation Internship Repository
 
-### GINO FREUD D. HOBAYAN  
+### BY: GINO FREUD D. HOBAYAN  
 
 
 <br><br><br>
