@@ -2,6 +2,14 @@
 
 ### BY: GINO FREUD D. HOBAYAN  
 
+1.) Prediction using Supervised Machine Learning
+
+2.)
+
+3.)
+
+4.)
+
 
 <br><br><br>
 
