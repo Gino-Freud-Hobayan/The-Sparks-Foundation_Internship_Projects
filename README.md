@@ -2,13 +2,13 @@
 
 ### BY: GINO FREUD D. HOBAYAN  
 
-1.) Prediction using Supervised Machine Learning
+- Prediction using Supervised Machine Learning
 
-2.)
+- Exploratory Data Analysis - Retail (SampleSuperstore.csv)
 
-3.)
+- Exploratory Data Analysis - Terrorism (Global Terrorism csv)
 
-4.)
+- 
 
 
 <br><br><br>
