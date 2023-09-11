@@ -2,16 +2,28 @@
 
 ### BY: GINO FREUD D. HOBAYAN  
 
-- Prediction using Supervised Machine Learning
+<br>
+<br>
 
-- Exploratory Data Analysis - Retail (SampleSuperstore.csv)
+## PROJECTS MADE:
 
-- Exploratory Data Analysis - Terrorism (Global Terrorism csv)
+### - Prediction using Supervised Machine Learning
 
-- 
+### - Exploratory Data Analysis - Retail (SampleSuperstore.csv)
+
+### - Exploratory Data Analysis - Terrorism (Global Terrorism csv)
 
 
-<br><br><br>
+<br><br>
+
+I'm very grateful for this opportunity.
+
+I was able to practice and hone my skills about Exploratory Data Analysis on Python on two datasets.
+
+I also predicted the student's scores based on their study hours using Supervised Machine Learning.
+
+
+<br><br><br><br><br>
 
 
 
