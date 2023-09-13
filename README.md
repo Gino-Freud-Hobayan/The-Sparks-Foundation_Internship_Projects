@@ -5,13 +5,19 @@
 <br>
 <br>
 
-## PROJECTS MADE:
+# PROJECTS MADE:
 
-### - Prediction using Supervised Machine Learning
+### 1.) [Prediction using Supervised Machine Learning](https://github.com/Gino-Freud-Hobayan/The-Sparks-Foundation_Internship_Projects/blob/main/1.%20Prediction%20using%20Supervised%20Machine%20Learning.ipynb)
 
-### - Exploratory Data Analysis - Retail (SampleSuperstore.csv)
+<br>
 
-### - Exploratory Data Analysis - Terrorism (Global Terrorism csv)
+### 2.) Exploratory Data Analysis - Retail (SampleSuperstore.csv)
+
+<br>
+
+### 3.) Exploratory Data Analysis - Terrorism (Global Terrorism csv)
+
+<br>
 
 
 <br><br>
