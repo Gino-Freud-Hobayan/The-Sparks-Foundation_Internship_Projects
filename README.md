@@ -9,7 +9,7 @@
 
 ### 1.) Prediction using Supervised Machine Learning
 
-- YouTube video Presentation
+- [YouTube video Presentation](https://youtu.be/dStO09JZ5F4?si=Rml_0KYJNzMQFm8O)
 
 - [Jupyter Notebook](https://github.com/Gino-Freud-Hobayan/The-Sparks-Foundation_Internship_Projects/blob/main/1.%20Prediction%20using%20Supervised%20Machine%20Learning.ipynb)
 
@@ -20,27 +20,11 @@
 
 ### 2.) Exploratory Data Analysis - Retail (SampleSuperstore.csv)
 
-- YouTube video Presentation
+- [YouTube video Presentation](https://youtu.be/jvPdYeK8zqw?si=z4-iSTdz8tMikAud)
 
 - [Jupyter Notebook](https://github.com/Gino-Freud-Hobayan/The-Sparks-Foundation_Internship_Projects/blob/main/3.%20Exploratory%20Data%20Analysis%20-%20Retail%20(Sample%20Superstore_csv).ipynb)
 
 - [Tableau Dashboard](https://public.tableau.com/app/profile/gino.freud.hobayan/viz/ExploratoryDataAnalysis-Retail14Sept2023/FirstPage)
-
-
-
-
-<br><br>
-
-
-### 3.) Exploratory Data Analysis - Terrorism (Global Terrorism csv)
-
-- YouTube video Presentation
-
-
-- Jupyter Notebook
-
-
-- Tableau Dashboard
 
 
 
