@@ -35,7 +35,7 @@
 
 I'm very grateful for this opportunity.
 
-I was able to practice and hone my skills about Exploratory Data Analysis on Python on two datasets.
+I was able to practice and hone my skills about Exploratory Data Analysis on Python on a business dataset.
 
 I also predicted the student's scores based on their study hours using Supervised Machine Learning.
 
